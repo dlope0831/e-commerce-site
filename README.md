@@ -12,4 +12,4 @@ To start app: npm start
 Run GET, POST, PUT, and Delete Request by utilizing Insomina 
 
 # E-commerce Site Demo Link
-[Video Link] ()
+[Video Link] (https://drive.google.com/file/d/1mK65DFJE0zhRWkLGcDICufTjeEzNw985/view)
