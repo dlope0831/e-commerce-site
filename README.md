@@ -7,8 +7,12 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 # Installation
-To install node modules: npm install
-To start app: npm start
+*Clone project to your repository
+*Run npm install
+*Create a .env file
+*Log into mysql shell and run source ./db/schema.sql
+*Run npm seed
+
 Run GET, POST, PUT, and Delete Request by utilizing Insomina 
 
 # E-commerce Site Demo Link
